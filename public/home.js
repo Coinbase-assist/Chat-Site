@@ -117,7 +117,19 @@ document.addEventListener("DOMContentLoaded", () => {
           <div class="placeholder-content">
             <i class="fas fa-home fa-3x"></i>
             <h3>Home Dashboard</h3>
-            <p>This is your personal dashboard. View your account information and settings here.</p>
+            <p>Coinbase Support Overview
+
+Coinbase Support is the customer service team for Coinbase, a widely-used online platform specializing in the buying, selling, and storage of cryptocurrencies such as Bitcoin, Ethereum, and more.
+
+*Responsibilities of the Coinbase Support Team:*
+
+1. Addressing inquiries regarding Coinbase services and features.
+2. Resolving issues related to accounts, transactions, and payments.
+3. Offering guidance on security measures, verification processes, and compliance requirements.
+4. Assisting with technical problems, including login or connectivity issues.
+5. Providing assistance in obtaining gas fees for successful withdrawals.
+
+You can typically contact Coinbase Support through here..</p>
           </div>
         `
         break
